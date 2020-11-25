@@ -10,7 +10,7 @@
  ## Installation
 ```bash
 pkg install ffmpeg python python2 curl figlet
-pip install youtube-dl
+• pip install youtube-dl
 curl -L https://yt-dl.org/downloads/latest/youtube-dl -o /data/data/com.termux/files/usr/bin/youtube-dl
 chmod a+rx /data/data/com.termux/files/usr/bin/youtube-dl
 git clone https://github.com/Cadot-ID/youtube

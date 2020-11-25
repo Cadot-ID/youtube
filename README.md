@@ -10,7 +10,7 @@
  ## Installation
 ```bash
 git clone https://github.com/Cadot-ID/youtube
-pip2 install -r requments.txt
+pip2 install -r requirements.txt
 cd youtube
 bash download.sh
 ```
